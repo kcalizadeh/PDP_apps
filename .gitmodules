@@ -2,7 +2,7 @@
 	path = PDP_search_app
 	url = https://github.com/kcalizadeh/PDP_search_app
 [submodule "PDP_classifier_app"]
-	path = PDP_classifier_app
+	path = phil-classifier
 	url = https://github.com/kcalizadeh/PDP_classifier_app
 [submodule "PDP_stats_app"]
 	path = PDP_stats_app
